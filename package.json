@@ -8,6 +8,9 @@
     "dev": "nodemon server.js"
   },
   "dependencies": {
+    "mongodb": "~3.6.0",
+    "mongoose": "~5.4.0",
+    "valid-url": "^1.0.9",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
